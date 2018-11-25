@@ -1,0 +1,28 @@
+#titulo{
+	position: absolute;
+	top: 50px;
+	left: 30%;
+}
+
+#prox, #next, #ant{
+	position: absolute;
+	top: 200px;
+	left: 40%;
+	font-weight: bold;
+}
+
+#next, #ant{
+	top: 20px;
+	left: 45%;
+}
+
+#ant{
+	left: 25%;
+}
+
+#img{
+	position: absolute;
+	top: 50px;
+	left: 10%;
+	width: 500px;
+}
